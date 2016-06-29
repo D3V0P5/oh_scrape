@@ -6,7 +6,7 @@ import MySQLdb
 import re
 import time
 
-db = MySQLdb.connect("172.17.0.2", "root", "toor", "mima")
+db = MySQLdb.connect("172.5.25.7", "user", "change_me", "db")
 for i in range(1, 1400):
     # Be nice and don't DOS the site:
     time.sleep(.2)
