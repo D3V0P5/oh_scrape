@@ -1,0 +1,26 @@
+{
+  "name": "yanodep",
+  "version": "1.0.0",
+  "description": "just trying to learn ",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcomand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:D3V0P5/oh_scrape.git"
+  },
+  "keywords": [
+    "אני",
+    "פשוט",
+    "גאון"
+  ],
+  "author": "הגאון",
+  "license": "ISC",
+  "dependencies": {
+    "camo": "^0.12.2",
+    "cheerio": "^0.20.0",
+    "jsesc": "^2.2.0",
+    "request": "^2.72.0"
+  }
+}
