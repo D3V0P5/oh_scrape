@@ -6,10 +6,14 @@ A job nedded to be done asap. ugly code, *job done.*
   * lxml.html
   * requests
   * MySQLdb
+
 (Included in the requirements.txt file)  
+
+
 
 2. using __NodeJs__ with : 
   * request
   * cheerio
   * camo 
+
 (included in the package.json file)
