@@ -1,4 +1,3 @@
-
 #!/bin/env ./venv/bin/python3.5
 import lxml.html as s
 import requests as r
